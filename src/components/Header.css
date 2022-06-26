@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.underline {
+    font-size: 50px;
+    color: #F97373;
+}
+
